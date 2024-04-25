@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">אפליקצייה להציל את טוראי ראיין</string>
+    <string name="movie_summary">להציל את טוראי ריאן, סרט מלחמה אפי אמריקאי בבימויו של סטיבן ספילברג ונכתב על ידי רוברט רודאט, המתרחש ב-1944 במהלך מלחמת העולם השנייה בצרפת. הסרט עוקב אחר קבוצת חיילים אמריקאים שנשלחו לאתר את Pvt. ג\'יימס ריאן כדי שיוכל לחזור הביתה לאחר ששלושת אחיו נהרגו בקרב. להציל את טוראי ריאן הופיע בבכורה בשנת 1998 ונודע בזכות המטרידה שלו, תיאור ריאליסטי של הקרב ועל חידוש העניין של סוף המאה ה-20 במלחמת העולם השנייה.</string>
+    <string name="headline">להציל את טוראי ראיין</string>
+    <string name="summary">תקציר</string>
+    <string name="close">סגירה</string>
+    <string name="day_month_year">יום/חודש/שנה</string>
+    <string name="date">תאריך</string>
+    <string name="adult_ticket">כרטיס מבוגר :10$</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="child_ticket">כרטיס ילד: 7$</string>
+    <string name="zero">0</string>
+    <string name="theater">קולנוע</string>
+    <string name="rishon_le_zion">ראשון לציון</string>
+    <string name="glilot">גלילות</string>
+    <string name="beer_sheva">באר שבע</string>
+    <string name="zerodollar">0$</string>
+    <string name="total_price">מחיר</string>
+    <string name="yes">כן</string>
+    <string name="No">לא</string>
+    <string name="place_an_order">בצע הזמנה</string>
+    <string name="order_summary">סיכום הזמנה</string>
+    <string name="movie_name">שם הסרט</string>
+    <string name="adult_tickets_amount">כמות כרטיסים מבוגר</string>
+    <string name="children_tickets_amount">כמות כרטיסים ילד</string>
+    <string name="accept">אשר</string>
+    <string name="cancel">בטל</string>
+    <string name="_00_00">00:00</string>
+
+</resources>

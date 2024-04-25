@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">SavingPrivateRyanApp</string>
+    <string name="movie_summary">Saving Private Ryan, American epic war film directed by Steven Spielberg and written by Robert Rodat, set in 1944 during World War II in France.
+        The film follows a group of American soldiers dispatched to locate Pvt.
+        James Ryan so he can return home after his three brothers have been killed in battle.
+        Saving Private Ryan premiered in 1998 and is noted for its harrowing,
+        realistic depiction of battle and for renewing late-20th-century interest in World War II.</string>
+    <string name="headline">Saving Private Ryan</string>
+    <string name="summary">Summary</string>
+    <string name="close">Close</string>
+    <string name="day_month_year">Day/Month/Year</string>
+    <string name="date">Date</string>
+    <string name="adult_ticket">Adult ticket: 10$</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="child_ticket">Child Ticket: 7$</string>
+    <string name="zero">0</string>
+    <string name="theater">Theater</string>
+    <string name="rishon_le_zion">Rishon Le Zion</string>
+    <string name="glilot">Glilot</string>
+    <string name="beer_sheva">Beer Sheva</string>
+    <string name="zerodollar">0$</string>
+    <string name="total_price">Total Price</string>
+    <string name="yes">\n</string>
+    <string name="No">\n</string>
+    <string name="place_an_order">Place an order</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="adult_tickets_amount">Adult Tickets Amount</string>
+    <string name="children_tickets_amount">Children Tickets Amount</string>
+    <string name="accept">Accept</string>
+    <string name="cancel">Cancel</string>
+    <string name="_00_00">00:00</string>
+
+
+    <string-array name="time_options">
+        <item>15:00</item>
+        <item>17:30</item>
+        <item>19:00</item>
+        <item>21:30</item>
+        <item>23:00</item>
+    </string-array>
+
+</resources>
+
