@@ -4,9 +4,9 @@ Welcome to the Saving Private Ryan Android App! This application is designed to 
 
 ## Features
 
-🎥 **Movie Information**: Access details about the movie "Saving Private Ryan," including plot summary, cast and crew information, release date, and more.
+🎥 **Movie Information**: Access details about the movie "Saving Private Ryan," including plot summary, post and etc.
 
-🎟️ **Ticket Booking**: Book tickets for screenings of "Saving Private Ryan" at different theaters, select showtimes, and choose seating options.
+🎟️ **Ticket Booking**: Book tickets for screenings of "Saving Private Ryan" at different theaters, select showtimes, and choose seating options (adult/child) .
 
 📅 **Date Selection**: Use a date picker to select the preferred date for watching the movie.
 
