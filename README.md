@@ -40,7 +40,7 @@ To get started with the Saving Private Ryan Android App:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your-username/saving-private-ryan-android-app.git
+    git clone https://github.com/Roychen651/SavingPrivateRyanAndroidApp.git
     ```
 
 2. Open the project in Android Studio.
