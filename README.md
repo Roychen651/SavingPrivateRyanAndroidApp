@@ -50,13 +50,16 @@ To get started with the Saving Private Ryan Android App:
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+Thank you for considering contributing to the Saving Private Ryan Android App! Below are the steps to contribute to the project:
 
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature-name`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add some feature'`).
-5. Push to the branch (`git push origin feature/your-feature-name`).
-6. Create a new Pull Request.
+1. **Fork the repository**: Go to the repository's GitHub page at [https://github.com/Roychen651/SavingPrivateRyanAndroidApp.git](https://github.com/Roychen651/SavingPrivateRyanAndroidApp.git)
+2.  and click on the "Fork" button at the top right corner of the page. This will create a copy of the repository in your GitHub account.
+
+3. **Create a new branch**: After forking the repository, navigate to your forked repository on GitHub. Click on the "Branch: main" button and then type in a new branch name (e.g., `feature/your-feature-name`). Press Enter to create the new branch.
+
+4. **Make your changes**: Clone the forked repository to your local machine using the following command:
+   ```bash
+   git clone https://github.com/Roychen651/SavingPrivateRyanAndroidApp.git
 
 ## License
 
