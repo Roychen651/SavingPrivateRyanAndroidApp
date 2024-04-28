@@ -1,5 +1,18 @@
 # Saving Private Ryan Android App 🎬
 
+<img width="750px" height="550px" src="https://github.com/Roychen651/SavingPrivateRyanAndroidApp/blob/master/assets/app_screen.png"/>
+
+<img width="350px" height="400px" src="https://github.com/Roychen651/SavingPrivateRyanAndroidApp/blob/master/assets/calander_screen.png"/><img width="350px" height="400px" src="https://github.com/Roychen651/SavingPrivateRyanAndroidApp/blob/master/assets/order_screen.png"/> <img width="350px" height="400px" src="https://github.com/Roychen651/SavingPrivateRyanAndroidApp/blob/master/assets/summary_screen.png"/> 
+
+<div style="text-align:center;">
+  <img width="800px" height="600px" src="https://github.com/Roychen651/Recipes-Android-App/blob/main/Pictures/Soft%20Minimalist%20Download%20Multiple%20Devices%20Mockup(1).gif"/>
+</div>
+
+<div style="text-align:center;">
+  <img width="800px" height="600px" src="https://github.com/Roychen651/Recipes-Android-App/blob/main/Pictures/Soft%20Minimalist%20Download%20Multiple%20Devices%20Mockup(2).gif"/>
+</div>
+
+
 Welcome to the Saving Private Ryan Android App! This application is designed to provide users with information about the movie "Saving Private Ryan" and allow them to interact with various features related to the film.
 
 ## Features
